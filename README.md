@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ping-yao-wang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ping-yao-wang/" height="30" width="40" /></a>
 <a href="https://kaggle.com/wangclement" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wangclement" height="30" width="40" /></a>
 <a href="https://instagram.com/clementsphotos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clementsphotos" height="30" width="40" /></a>
-<a href="https://medium.com/王炳堯" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="王炳堯" height="30" width="40" /></a>
+<a href="https://medium.com/@clememttnk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="王炳堯" height="30" width="40" /></a>
   
 </p>
 
