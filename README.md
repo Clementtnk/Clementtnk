@@ -5,7 +5,6 @@
 - 📫 How to reach me **ping-yao.wang@rennes-sb.com**
 
 - 📄 Know about my [experiences](https://github.com/Clementtnk/Clementtnk/blob/main/My%20CV/Ping%20Yao%20Wang_Reseume(%20DA%20)-1.png)
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ping-yao-wang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ping-yao-wang/" height="30" width="40" /></a>
