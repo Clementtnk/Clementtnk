@@ -1,4 +1,19 @@
-<h2 align="left">Hi 👋! My name is Clement, and I'm a student from Taiwan! I'm pursuing Business & Data Analysis at Rennes School of Business in France.</h2>
+<h1 align="center">Hi👋，I'm Clement, and I'm from Taiwan！ I'm pursuing Business & Data Analysis at Rennes School of Business in France.</h1>
+<h3 align="center">A student navigating the vast ocean of data analysis.</h3>
+- 🌱 I'm currently learning **Python,R and MySQL**
+
+- 📫 How to reach me **ping-yao.wang@rennes-sb.com**
+
+- 📄 Know about my experiences 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ping-yao-wang/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ping-yao-wang/" height="30" width="40" /></a>
+<a href="https://kaggle.com/wangclement" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="wangclement" height="30" width="40" /></a>
+<a href="https://instagram.com/clementsphotos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clementsphotos" height="30" width="40" /></a>
+<a href="https://medium.com/王炳堯" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="王炳堯" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 
 ###
 
